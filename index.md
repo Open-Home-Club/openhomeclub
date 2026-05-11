@@ -3,9 +3,18 @@
 
 **Niekomercyjna platforma do współdzielenia przestrzeni, mobilności i lokalnego wsparcia — poza rynkiem licencji, algorytmów i pośredników.**
 
-👉 **Platforma:** https://openhomeclub.lovable.app
+---
+
+👉 **Przejdź do aplikacji Open Home Club**  
+https://openhomeclub.lovable.app
+
+ℹ️ **Dlaczego aplikacja ma inny adres?**  
+Strona **openhome.club** jest wizytówką i punktem informacyjnym projektu.  
+Właściwa aplikacja Open Home Club działa obecnie pod adresem technicznym `lovable.app`.  
+To bezpieczne i normalne — po kliknięciu przejdziesz bezpośrednio do oficjalnej aplikacji.
 
 ---
+
 
 ## Czym jest Open Home Club?
 
