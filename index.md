@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="u3J06MCoiGFscKbw6jdUDRS4992g5bt7d4tt2w6k_jE" />
 
 ---
 title: "Open Home Club – niekomercyjne współdzielenie mieszkań i kamperów"
