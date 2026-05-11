@@ -1,9 +1,4 @@
 
----
-title: "Open Home Club – niekomercyjne współdzielenie mieszkań i kamperów"
-description: "Open Home Club to niekomercyjna platforma do współdzielenia przestrzeni, mobilności i lokalnego wsparcia – poza rynkiem licencji i platform bookingowych."
----
-
 # Open Home Club
 
 **Niekomercyjna platforma do współdzielenia przestrzeni, mobilności i lokalnego wsparcia — poza rynkiem licencji, algorytmów i pośredników.**
