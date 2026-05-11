@@ -267,6 +267,8 @@ https://openhomeclub.lovable.app
 The **openhome.club** website serves as the official project page and information hub.  
 The Open Home Club application currently runs on the technical platform `lovable.app`.  
 This is safe and intentional — clicking the link will take you directly to the official app.
+> **English summary**
+> Open Home Club is a non‑commercial platform for sharing homes, vehicles and local support, outside licensing systems and short‑term rental marketplaces.
 
 ## Status
 Open, experimental, non-commercial project.
