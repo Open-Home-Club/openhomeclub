@@ -256,8 +256,13 @@ outside algorithmic and licensing-driven marketplaces.
 If this resonates with you — you are in the right place.
 ## Access the platform
 
-## Platform
-👉 https://openhomeclub.lovable.app
+👉 **Go to the Open Home Club app**
+https://openhomeclub.lovable.app
+
+ℹ️ **Why is the app hosted on a different domain?**  
+The **openhome.club** website serves as the official project page and information hub.  
+The Open Home Club application currently runs on the technical platform `lovable.app`.  
+This is safe and intentional — clicking the link will take you directly to the official app.
 
 ## Status
 Open, experimental, non-commercial project.
